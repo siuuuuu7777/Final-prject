@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 15, 2025 at 08:25 AM
+-- Generation Time: Jun 16, 2025 at 07:09 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -39,7 +39,7 @@ CREATE TABLE `admin` (
 
 INSERT INTO `admin` (`email`, `password`, `role`) VALUES
 ('Admin', 'Admin123', 'head'),
-
+('teacher1@gmail.com', '12345', 'admin');
 
 -- --------------------------------------------------------
 
